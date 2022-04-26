@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaanbaytar
 - 👀 I’m interested in mobile apps and web projects.
 - 🌱 I’m currently learning iOS & Full Stack Engineer.
-- 💞️ I’m looking to collaborate on iOS app development team.
+- 💞️ I’m looking to collaborate on web/mobile app development team.
 - 📫 How to reach me --> @kbaytar on Twitter
 
 <!---
